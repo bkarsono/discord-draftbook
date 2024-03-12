@@ -1,1 +1,1 @@
-Thank you to youtube.com/@UnderCtrl for the boilerplate code!
+Thank you to [UnderCtrl](youtube.com/@UnderCtrl) for the boilerplate code!
